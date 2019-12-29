@@ -10,6 +10,10 @@
     </parent>
     
     
+         
+         
+         
+         
      <groupId>com.javatpoint.application1</groupId>  
   <artifactId>my-application1</artifactId>  
   <version>1.0</version>  
@@ -18,11 +22,7 @@
   <name>Maven Quick Start Archetype</name>  
   <url>http://maven.apache.org</url> 
          
-    <artifactId>ci-pipeline-pragra</artifactId>
-    <version>0.0.1</version>
-    <name>ci-pipeline-pragra</name>
-    <description>CI/CD pipeline demo</description>
-
+    
     <properties>
         <java.version>1.8</java.version>
     </properties>
