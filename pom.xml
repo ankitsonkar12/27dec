@@ -9,6 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>co.pragra.jenkinslearning</groupId>
+    <packaging>war</packaging>    
     <artifactId>ci-pipeline-pragra</artifactId>
     <version>0.0.1</version>
     <name>ci-pipeline-pragra</name>
