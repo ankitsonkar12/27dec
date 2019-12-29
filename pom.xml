@@ -9,7 +9,15 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>co.pragra.jenkinslearning</groupId>
-    <packaging>jar</packaging>    
+    
+     <groupId>com.javatpoint.application1</groupId>  
+  <artifactId>my-application1</artifactId>  
+  <version>1.0</version>  
+  <packaging>jar</packaging>  
+  
+  <name>Maven Quick Start Archetype</name>  
+  <url>http://maven.apache.org</url> 
+         
     <artifactId>ci-pipeline-pragra</artifactId>
     <version>0.0.1</version>
     <name>ci-pipeline-pragra</name>
